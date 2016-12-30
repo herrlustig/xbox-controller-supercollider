@@ -1,2 +1,2 @@
 pygame
-xboxdrv; sys_platform == 'linux2'
+xboxdrv; sys_platform != 'win32'
