@@ -1,0 +1,2 @@
+pygame
+xboxdrv; sys_platform == 'linux2'
