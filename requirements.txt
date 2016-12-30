@@ -1,2 +1,3 @@
-pygame
+pygame;
+cython; sys_platform == 'win32'
 xboxdrv; sys_platform != 'win32'
